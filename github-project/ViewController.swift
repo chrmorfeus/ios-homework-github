@@ -25,6 +25,7 @@ class ViewController: UIViewController {
     @IBAction func hideImageButton(sender: AnyObject) {
         stockImage.hidden = true
     }
+    
 
 }
 
